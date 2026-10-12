@@ -1,0 +1,6 @@
+name: astrbot_plugin_mini
+display_name: 迷你玩家查询
+desc: /mini 查玩家，/map 查地图或作品卡片，/maps 下载排行，/down 发地图包。
+version: v1.8.0
+author: 劫纸
+repo: ''
