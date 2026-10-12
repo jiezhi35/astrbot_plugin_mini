@@ -1,0 +1,2 @@
+# astrbot_plugin_mini
+查询迷你世界玩家信息及下载迷你世界地图的astrbot插件
